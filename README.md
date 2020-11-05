@@ -2,10 +2,11 @@
 
 Business Intelligence Manager and Teacher at @ColegioPlanck.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tarcísio%20Philips-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiophilips/)](https://www.linkedin.com/in/tarcisiophilips/) 
-[![Gmail Badge](https://img.shields.io/badge/-tarcisio.rodrigues@professor.colegioplanck.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:	tarcisio.rodrigues@professor.colegioplanck.com.br)](mailto:	tarcisio.rodrigues@professor.colegioplanck.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiophilips/)](https://www.linkedin.com/in/tarcisiophilips/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)](mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)
 
 🔭 I'm currently learning Node, React and React-Native 
+
 💬 Ask me about project managment, philosophy,exact sciences, cooking, anything 😄
 
 Passionate about education and data enthusiastic.
