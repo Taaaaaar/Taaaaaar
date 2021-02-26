@@ -1,6 +1,6 @@
 # Tarcísio Philips
 
-**Business Intelligence Manager and Teacher at @ColegioPlanck.**
+**Product and Development Manager and Teacher at @ColegioPlanck.**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiophilips/)](https://www.linkedin.com/in/tarcisiophilips/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)](mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)
