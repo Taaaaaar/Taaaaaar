@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiophilips/)](https://www.linkedin.com/in/tarcisiophilips/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)](mailto:tarcisio.rodrigues@professor.colegioplanck.com.br)
 
-- 🔭 I'm currently working with **Software Development** and **Business Intelligence**.
+- 🔭 I'm currently working with **Software Development** and **Data Science**.
 - 🌱 I’m currently learning about **Blockchain (Etherun)** and **Clean arquitecture**!
 
 Passionate about education and data enthusiastic.  
